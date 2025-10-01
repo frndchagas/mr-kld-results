@@ -1,0 +1,39 @@
+SOLUTION START
+	Parameters used:
+	instance = instances/MDG-b/MDG-b_24_n2000_m200.txt
+	solution_size = 200
+	meta_heuristic = mr-grasp
+
+
+Execution Summary:
+  Instance: instances/MDG-b/MDG-b_24_n2000_m200.txt
+  Matrix Size (N): 2000
+  Solution Size (M): 200
+  Number of Executions: 15
+  ------------------------------------
+  Average Solution: 11280811.299122
+  Best Solution Value: 11290034.309131
+  Average Time per Execution: 600.000000 sec
+  Best Solution Time: 600.000000 sec
+  BKS: 11291119.000000
+  Distance to BKS: 1084.690869
+  Percentage Distance to BKS: 0.01%
+  Average Percentage Distance to BKS: 0.09%
+  Minerações por Execução: 10.33
+
+  Details per Execution:
+    Exec 1: Solution=11278639.337041, Time=600.000000 sec, Minerações=8, Dist BKS=0.11%
+    Exec 2: Solution=11281694.196239, Time=600.000000 sec, Minerações=8, Dist BKS=0.08%
+    Exec 3: Solution=11275956.139064, Time=600.000000 sec, Minerações=14, Dist BKS=0.13%
+    Exec 4: Solution=11280787.471040, Time=600.000000 sec, Minerações=9, Dist BKS=0.09%
+    Exec 5: Solution=11284148.565492, Time=600.000000 sec, Minerações=15, Dist BKS=0.06%
+    Exec 6: Solution=11283869.259160, Time=600.000000 sec, Minerações=6, Dist BKS=0.06%
+    Exec 7: Solution=11274410.225963, Time=600.000000 sec, Minerações=10, Dist BKS=0.15%
+    Exec 8: Solution=11272485.215730, Time=600.000000 sec, Minerações=7, Dist BKS=0.17%
+    Exec 9: Solution=11282089.847606, Time=600.000000 sec, Minerações=10, Dist BKS=0.08%
+    Exec 10: Solution=11270076.904187, Time=600.000000 sec, Minerações=15, Dist BKS=0.19%
+    Exec 11: Solution=11288813.267781, Time=600.000000 sec, Minerações=11, Dist BKS=0.02%
+    Exec 12: Solution=11281559.546068, Time=600.000000 sec, Minerações=10, Dist BKS=0.08%
+    Exec 13: Solution=11281964.574539, Time=600.000000 sec, Minerações=11, Dist BKS=0.08%
+    Exec 14: Solution=11285640.627788, Time=600.000000 sec, Minerações=8, Dist BKS=0.05%
+    Exec 15: Solution=11290034.309131, Time=600.000000 sec, Minerações=13, Dist BKS=0.01%

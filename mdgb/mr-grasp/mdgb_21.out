@@ -1,0 +1,39 @@
+SOLUTION START
+	Parameters used:
+	instance = instances/MDG-b/MDG-b_21_n2000_m200.txt
+	solution_size = 200
+	meta_heuristic = mr-grasp
+
+
+Execution Summary:
+  Instance: instances/MDG-b/MDG-b_21_n2000_m200.txt
+  Matrix Size (N): 2000
+  Solution Size (M): 200
+  Number of Executions: 15
+  ------------------------------------
+  Average Solution: 11290097.579602
+  Best Solution Value: 11299894.826950
+  Average Time per Execution: 600.000000 sec
+  Best Solution Time: 600.000000 sec
+  BKS: 11299895.000000
+  Distance to BKS: 0.173050
+  Percentage Distance to BKS: 0.00%
+  Average Percentage Distance to BKS: 0.09%
+  Minerações por Execução: 8.20
+
+  Details per Execution:
+    Exec 1: Solution=11285930.554809, Time=600.000000 sec, Minerações=7, Dist BKS=0.12%
+    Exec 2: Solution=11294313.893829, Time=600.000000 sec, Minerações=7, Dist BKS=0.05%
+    Exec 3: Solution=11283310.665605, Time=600.000000 sec, Minerações=7, Dist BKS=0.15%
+    Exec 4: Solution=11285811.297426, Time=600.000000 sec, Minerações=10, Dist BKS=0.12%
+    Exec 5: Solution=11290342.884504, Time=600.000000 sec, Minerações=8, Dist BKS=0.08%
+    Exec 6: Solution=11299894.826950, Time=600.000000 sec, Minerações=8, Dist BKS=0.00%
+    Exec 7: Solution=11292996.076146, Time=600.000000 sec, Minerações=8, Dist BKS=0.06%
+    Exec 8: Solution=11281719.126799, Time=600.000000 sec, Minerações=11, Dist BKS=0.16%
+    Exec 9: Solution=11291844.518047, Time=600.000000 sec, Minerações=8, Dist BKS=0.07%
+    Exec 10: Solution=11287100.752529, Time=600.000000 sec, Minerações=8, Dist BKS=0.11%
+    Exec 11: Solution=11299894.826950, Time=600.000000 sec, Minerações=7, Dist BKS=0.00%
+    Exec 12: Solution=11288650.926473, Time=600.000000 sec, Minerações=13, Dist BKS=0.10%
+    Exec 13: Solution=11290927.570688, Time=600.000000 sec, Minerações=7, Dist BKS=0.08%
+    Exec 14: Solution=11294326.368581, Time=600.000000 sec, Minerações=6, Dist BKS=0.05%
+    Exec 15: Solution=11284399.404694, Time=600.000000 sec, Minerações=8, Dist BKS=0.14%

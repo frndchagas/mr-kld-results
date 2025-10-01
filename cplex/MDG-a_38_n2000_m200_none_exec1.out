@@ -1,0 +1,77 @@
+# Executing instances/MDG-a/MDG-a_38_n2000_m200.txt|none|1
+
+==================== CONFIGURAÇÃO DO SOLVER ====================
+[MDPModel] Instance: MDG-a_38_n2000_m200
+[MDPModel] Configuração: none
+[MDPModel] Execução: 1
+[MDPModel] n=2000, m=200
+[MDPModel] ✓ Configurações de preservação de estratégias aplicadas
+Version identifier: 22.1.1.0 | 2022-11-28 | 9160aff4d
+CPXPARAM_ClockType                               1
+CPXPARAM_Threads                                 1
+CPXPARAM_MIP_Strategy_File                       3
+CPXPARAM_TimeLimit                               600
+CPXPARAM_WorkMem                                 0
+CPXPARAM_MIP_Tolerances_Integrality              1.0000000000000001e-09
+CPXPARAM_WorkDir                                 "/tmp/cplex_workdir_1755490523253827948"
+Tried aggregator 1 time.
+MIP Presolve eliminated 3998000 rows and 4000001 columns.
+MIP Presolve modified 1781 coefficients.
+Reduced MIP has 3999 rows, 3999 columns, and 1825545 nonzeros.
+Reduced MIP has 2000 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 8.87 sec. (3452.56 ticks)
+Found incumbent of value 0.000000 after 10.77 sec. (3925.89 ticks)
+Probing time = 0.03 sec. (17.26 ticks)
+Tried aggregator 1 time.
+Detecting symmetries...
+Reduced MIP has 3999 rows, 3999 columns, and 1825545 nonzeros.
+Reduced MIP has 2000 binaries, 1999 generals, 0 SOSs, and 0 indicators.
+Presolve time = 2.03 sec. (647.72 ticks)
+Probing time = 0.03 sec. (17.22 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: none, using 1 thread.
+Root relaxation solution time = 72.66 sec. (42806.21 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            0.0000  3357255.0000              --- 
+      0     0   385826.7155  3957        0.0000   385826.7155     8028     --- 
+      0     0   385801.5473  3977        0.0000     Cuts: 252     8095     --- 
+      0     0   385780.9880  3997        0.0000     Cuts: 142     8183     --- 
+      0     0   385761.5965  3997        0.0000       Cuts: 7     8209     --- 
+      0     0   385743.7036  3999        0.0000       Cuts: 2     8214     --- 
+      0     0   385726.7848  3999        0.0000      Fract: 1     8217     --- 
+Detecting symmetries...
+      0     0   385711.3299  3999        0.0000      Fract: 1     8218     --- 
+Advanced basis not built.
+
+Flow cuts applied:  2
+Mixed integer rounding cuts applied:  39
+Gomory fractional cuts applied:  6
+
+Root node processing (before b&c):
+  Real time             =  602.45 sec. (511252.13 ticks)
+Sequential b&c:
+  Real time             =    0.00 sec. (0.00 ticks)
+                          ------------
+Total (root+branch&cut) =  602.45 sec. (511252.13 ticks)
+----- END ----
+LB     : 385711
+UB     : 0
+NODES  : 0
+GAP OPT (%)  : 0.00%
+------------------
+INSTANCE_NAME      : MDG-a_38_n2000_m200
+N_VALUE            : 2000
+M_VALUE            : 200
+CONFIG_VALUE       : none
+EXEC_NUMBER        : 1
+TIME               : 613.57
+IS_SOLVED          : 1
+HEURISTIC_SOLUTION : 114017
+SOLUTION           : 0
+HEURISTIC GAP (%)  : -0.34%
+------------------
+SOLUTION ELEMENTS: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 

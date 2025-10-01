@@ -1,0 +1,80 @@
+# Executing instances/MDG-a/MDG-a_36_n2000_m200.txt|none|1
+
+==================== CONFIGURAÇÃO DO SOLVER ====================
+[MDPModel] Instance: MDG-a_36_n2000_m200
+[MDPModel] Configuração: none
+[MDPModel] Execução: 1
+[MDPModel] n=2000, m=200
+[MDPModel] ✓ Configurações de preservação de estratégias aplicadas
+Version identifier: 22.1.1.0 | 2022-11-28 | 9160aff4d
+CPXPARAM_ClockType                               1
+CPXPARAM_Threads                                 1
+CPXPARAM_MIP_Strategy_File                       3
+CPXPARAM_TimeLimit                               600
+CPXPARAM_WorkMem                                 0
+CPXPARAM_MIP_Tolerances_Integrality              1.0000000000000001e-09
+CPXPARAM_WorkDir                                 "/tmp/cplex_workdir_1755488628038667699"
+Tried aggregator 1 time.
+MIP Presolve eliminated 3998000 rows and 4000001 columns.
+MIP Presolve modified 1778 coefficients.
+Reduced MIP has 3999 rows, 3999 columns, and 1824952 nonzeros.
+Reduced MIP has 2000 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 7.24 sec. (3452.25 ticks)
+Found incumbent of value 0.000000 after 8.46 sec. (3925.52 ticks)
+Probing time = 0.07 sec. (17.27 ticks)
+Tried aggregator 1 time.
+Detecting symmetries...
+Reduced MIP has 3999 rows, 3999 columns, and 1824952 nonzeros.
+Reduced MIP has 2000 binaries, 1999 generals, 0 SOSs, and 0 indicators.
+Presolve time = 2.08 sec. (647.59 ticks)
+Probing time = 0.03 sec. (17.23 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: none, using 1 thread.
+Root relaxation solution time = 59.34 sec. (48522.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            0.0000  3352700.0000              --- 
+      0     0   385984.2154  3977        0.0000   385984.2154     8338     --- 
+      0     0   385969.6571  3995        0.0000     Cuts: 150     8417     --- 
+      0     0   385954.3629  3999        0.0000       Cuts: 9     8430     --- 
+      0     0   385941.0412  3999        0.0000      Fract: 1     8435     --- 
+      0     0   385928.2650  3999        0.0000      Fract: 1     8440     --- 
+      0     0   385914.2907  3999        0.0000      Fract: 1     8445     --- 
+Detecting symmetries...
+*     0+    0                        80754.0000   385914.2907           377.89%
+Heuristic still looking.
+Heuristic still looking.
+Starting limited solution polishing.
+Advanced basis not built.
+
+Flow cuts applied:  1
+Mixed integer rounding cuts applied:  27
+Gomory fractional cuts applied:  5
+
+Root node processing (before b&c):
+  Real time             =  602.33 sec. (671020.17 ticks)
+Sequential b&c:
+  Real time             =    0.00 sec. (0.00 ticks)
+                          ------------
+Total (root+branch&cut) =  602.33 sec. (671020.17 ticks)
+----- END ----
+LB     : 385914
+UB     : 80754
+NODES  : 0
+GAP OPT (%)  : 377.89%
+------------------
+INSTANCE_NAME      : MDG-a_36_n2000_m200
+N_VALUE            : 2000
+M_VALUE            : 200
+CONFIG_VALUE       : none
+EXEC_NUMBER        : 1
+TIME               : 611.67
+IS_SOLVED          : 1
+HEURISTIC_SOLUTION : 113902
+SOLUTION           : 80754
+HEURISTIC GAP (%)  : -0.38%
+------------------
+SOLUTION ELEMENTS: 12 18 25 29 37 38 42 47 54 55 59 68 71 75 77 84 85 86 88 99 101 103 109 110 117 119 120 121 122 125 129 131 133 134 139 142 147 150 152 154 157 158 161 165 170 176 177 182 183 185 193 203 209 214 226 233 234 235 241 245 247 249 250 255 258 263 272 275 294 295 298 303 304 305 307 322 327 328 341 353 355 356 360 361 363 367 369 375 385 394 399 402 404 406 408 409 415 422 425 427 436 441 443 445 448 451 453 456 461 462 463 466 467 470 473 474 476 494 496 503 506 508 513 521 528 536 546 547 552 558 560 562 569 571 578 581 584 595 612 618 629 631 634 651 658 660 663 671 673 679 696 697 698 720 729 732 737 749 764 779 783 790 807 808 810 822 824 835 852 873 874 884 888 931 934 949 950 951 975 994 1021 1035 1082 1088 1108 1114 1157 1159 1299 1380 1454 1460 1462 1508 1543 1681 1933 1945 1975 1979 

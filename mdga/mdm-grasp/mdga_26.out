@@ -1,0 +1,242 @@
+START SOLUTION
+	Parameters used:
+	instance = instances/MDG-a/MDG-a_26_n2000_m200.txt
+	solution_Size = 200
+	meta_Heuristic = mdm-grasp
+
+EXEC_PROGRESS 1/30
+ITER 17 DATA_MINING TOOK 0.040572
+ITER 40 DATA_MINING TOOK 0.248925
+
+Total iterations: 43
+Mining operations: 2
+EXEC_PROGRESS 2/30
+ITER 25 DATA_MINING TOOK 0.021713
+ITER 33 DATA_MINING TOOK 0.262298
+ITER 39 DATA_MINING TOOK 1.043315
+
+Total iterations: 40
+Mining operations: 3
+EXEC_PROGRESS 3/30
+ITER 17 DATA_MINING TOOK 0.033053
+ITER 28 DATA_MINING TOOK 0.071686
+ITER 38 DATA_MINING TOOK 0.280359
+
+Total iterations: 44
+Mining operations: 3
+EXEC_PROGRESS 4/30
+ITER 18 DATA_MINING TOOK 0.025738
+ITER 32 DATA_MINING TOOK 0.125257
+
+Total iterations: 44
+Mining operations: 2
+EXEC_PROGRESS 5/30
+ITER 31 DATA_MINING TOOK 0.072221
+ITER 40 DATA_MINING TOOK 0.098903
+
+Total iterations: 40
+Mining operations: 2
+EXEC_PROGRESS 6/30
+ITER 34 DATA_MINING TOOK 0.085978
+ITER 38 DATA_MINING TOOK 0.090709
+
+Total iterations: 41
+Mining operations: 2
+EXEC_PROGRESS 7/30
+ITER 32 DATA_MINING TOOK 0.058164
+ITER 38 DATA_MINING TOOK 0.349618
+
+Total iterations: 38
+Mining operations: 2
+EXEC_PROGRESS 8/30
+ITER 24 DATA_MINING TOOK 0.065628
+ITER 27 DATA_MINING TOOK 0.069882
+ITER 33 DATA_MINING TOOK 0.233382
+
+Total iterations: 35
+Mining operations: 3
+EXEC_PROGRESS 9/30
+ITER 20 DATA_MINING TOOK 0.045108
+ITER 30 DATA_MINING TOOK 0.111235
+
+Total iterations: 36
+Mining operations: 2
+EXEC_PROGRESS 10/30
+ITER 25 DATA_MINING TOOK 0.044051
+ITER 31 DATA_MINING TOOK 0.101836
+
+Total iterations: 39
+Mining operations: 2
+EXEC_PROGRESS 11/30
+ITER 31 DATA_MINING TOOK 0.031996
+
+Total iterations: 48
+Mining operations: 1
+EXEC_PROGRESS 12/30
+ITER 14 DATA_MINING TOOK 0.038175
+ITER 25 DATA_MINING TOOK 0.222606
+ITER 34 DATA_MINING TOOK 0.375225
+ITER 39 DATA_MINING TOOK 0.854189
+
+Total iterations: 40
+Mining operations: 4
+EXEC_PROGRESS 13/30
+ITER 16 DATA_MINING TOOK 0.019452
+ITER 29 DATA_MINING TOOK 0.122929
+ITER 35 DATA_MINING TOOK 0.345375
+
+Total iterations: 42
+Mining operations: 3
+EXEC_PROGRESS 14/30
+ITER 18 DATA_MINING TOOK 0.032004
+ITER 37 DATA_MINING TOOK 0.251265
+
+Total iterations: 38
+Mining operations: 2
+EXEC_PROGRESS 15/30
+ITER 26 DATA_MINING TOOK 0.025883
+
+Total iterations: 37
+Mining operations: 1
+EXEC_PROGRESS 16/30
+ITER 15 DATA_MINING TOOK 0.023601
+ITER 32 DATA_MINING TOOK 0.057823
+ITER 36 DATA_MINING TOOK 0.069873
+
+Total iterations: 37
+Mining operations: 3
+EXEC_PROGRESS 17/30
+ITER 34 DATA_MINING TOOK 0.036612
+ITER 41 DATA_MINING TOOK 0.049972
+
+Total iterations: 43
+Mining operations: 2
+EXEC_PROGRESS 18/30
+ITER 16 DATA_MINING TOOK 0.025047
+ITER 34 DATA_MINING TOOK 0.108170
+
+Total iterations: 41
+Mining operations: 2
+EXEC_PROGRESS 19/30
+ITER 16 DATA_MINING TOOK 0.027439
+ITER 28 DATA_MINING TOOK 0.166631
+ITER 35 DATA_MINING TOOK 0.243377
+
+Total iterations: 40
+Mining operations: 3
+EXEC_PROGRESS 20/30
+ITER 17 DATA_MINING TOOK 0.024336
+ITER 31 DATA_MINING TOOK 0.152499
+ITER 36 DATA_MINING TOOK 0.134575
+ITER 44 DATA_MINING TOOK 0.404110
+
+Total iterations: 44
+Mining operations: 4
+EXEC_PROGRESS 21/30
+ITER 25 DATA_MINING TOOK 0.036501
+ITER 30 DATA_MINING TOOK 0.020219
+ITER 38 DATA_MINING TOOK 0.158409
+
+Total iterations: 39
+Mining operations: 3
+EXEC_PROGRESS 22/30
+ITER 33 DATA_MINING TOOK 0.028596
+
+Total iterations: 39
+Mining operations: 1
+EXEC_PROGRESS 23/30
+ITER 17 DATA_MINING TOOK 0.050634
+ITER 37 DATA_MINING TOOK 0.657092
+
+Total iterations: 40
+Mining operations: 2
+EXEC_PROGRESS 24/30
+ITER 17 DATA_MINING TOOK 0.029867
+ITER 22 DATA_MINING TOOK 0.048221
+ITER 27 DATA_MINING TOOK 0.046757
+ITER 40 DATA_MINING TOOK 0.201629
+
+Total iterations: 41
+Mining operations: 4
+EXEC_PROGRESS 25/30
+ITER 13 DATA_MINING TOOK 0.023039
+ITER 29 DATA_MINING TOOK 0.126187
+
+Total iterations: 39
+Mining operations: 2
+EXEC_PROGRESS 26/30
+ITER 25 DATA_MINING TOOK 0.035930
+
+Total iterations: 36
+Mining operations: 1
+EXEC_PROGRESS 27/30
+ITER 19 DATA_MINING TOOK 0.023752
+ITER 38 DATA_MINING TOOK 0.244980
+
+Total iterations: 39
+Mining operations: 2
+EXEC_PROGRESS 28/30
+ITER 15 DATA_MINING TOOK 0.023421
+ITER 35 DATA_MINING TOOK 0.114180
+
+Total iterations: 45
+Mining operations: 2
+EXEC_PROGRESS 29/30
+ITER 18 DATA_MINING TOOK 0.026316
+ITER 34 DATA_MINING TOOK 0.076727
+
+Total iterations: 46
+Mining operations: 2
+EXEC_PROGRESS 30/30
+ITER 20 DATA_MINING TOOK 0.039107
+ITER 37 DATA_MINING TOOK 0.165189
+
+Total iterations: 38
+Mining operations: 2
+
+Execution Summary:
+  Instance: instances/MDG-a/MDG-a_26_n2000_m200.txt
+  Matrix Size (N): 2000
+  Solution Size (M): 200
+  Number of Executions: 30
+  ------------------------------------
+  Average Solution: 113651.366667
+  Best Solution Benefit: 113954.000000
+  Average Time per Execution: 20.000000 sec
+  Best Solution Time: 20.000000 sec
+  BKS: 114265.000000
+  Distance to BKS: 311.000000
+  Percentage Distance to BKS: 0.27%
+  Average Percentage Distance to BKS: 0.54%
+
+  Details per Execution:
+    Exec 1: Solution=113700.000000, Time=20.000000 sec, Dist BKS=0.49%
+    Exec 2: Solution=113740.000000, Time=20.000000 sec, Dist BKS=0.46%
+    Exec 3: Solution=113841.000000, Time=20.000000 sec, Dist BKS=0.37%
+    Exec 4: Solution=113607.000000, Time=20.000000 sec, Dist BKS=0.58%
+    Exec 5: Solution=113772.000000, Time=20.000000 sec, Dist BKS=0.43%
+    Exec 6: Solution=113553.000000, Time=20.000000 sec, Dist BKS=0.62%
+    Exec 7: Solution=113595.000000, Time=20.000000 sec, Dist BKS=0.59%
+    Exec 8: Solution=113489.000000, Time=20.000000 sec, Dist BKS=0.68%
+    Exec 9: Solution=113537.000000, Time=20.000000 sec, Dist BKS=0.64%
+    Exec 10: Solution=113714.000000, Time=20.000000 sec, Dist BKS=0.48%
+    Exec 11: Solution=113567.000000, Time=20.000000 sec, Dist BKS=0.61%
+    Exec 12: Solution=113954.000000, Time=20.000000 sec, Dist BKS=0.27%
+    Exec 13: Solution=113754.000000, Time=20.000000 sec, Dist BKS=0.45%
+    Exec 14: Solution=113629.000000, Time=20.000000 sec, Dist BKS=0.56%
+    Exec 15: Solution=113491.000000, Time=20.000000 sec, Dist BKS=0.68%
+    Exec 16: Solution=113519.000000, Time=20.000000 sec, Dist BKS=0.65%
+    Exec 17: Solution=113448.000000, Time=20.000000 sec, Dist BKS=0.72%
+    Exec 18: Solution=113662.000000, Time=20.000000 sec, Dist BKS=0.53%
+    Exec 19: Solution=113877.000000, Time=20.000000 sec, Dist BKS=0.34%
+    Exec 20: Solution=113541.000000, Time=20.000000 sec, Dist BKS=0.63%
+    Exec 21: Solution=113622.000000, Time=20.000000 sec, Dist BKS=0.56%
+    Exec 22: Solution=113572.000000, Time=20.000000 sec, Dist BKS=0.61%
+    Exec 23: Solution=113710.000000, Time=20.000000 sec, Dist BKS=0.49%
+    Exec 24: Solution=113718.000000, Time=20.000000 sec, Dist BKS=0.48%
+    Exec 25: Solution=113765.000000, Time=20.000000 sec, Dist BKS=0.44%
+    Exec 26: Solution=113685.000000, Time=20.000000 sec, Dist BKS=0.51%
+    Exec 27: Solution=113614.000000, Time=20.000000 sec, Dist BKS=0.57%
+    Exec 28: Solution=113630.000000, Time=20.000000 sec, Dist BKS=0.56%
+    Exec 29: Solution=113602.000000, Time=20.000000 sec, Dist BKS=0.58%
+    Exec 30: Solution=113633.000000, Time=20.000000 sec, Dist BKS=0.55%

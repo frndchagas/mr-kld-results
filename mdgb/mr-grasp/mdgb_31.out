@@ -1,0 +1,39 @@
+SOLUTION START
+	Parameters used:
+	instance = instances/MDG-b/MDG-b_31_n2000_m200.txt
+	solution_size = 200
+	meta_heuristic = mr-grasp
+
+
+Execution Summary:
+  Instance: instances/MDG-b/MDG-b_31_n2000_m200.txt
+  Matrix Size (N): 2000
+  Solution Size (M): 200
+  Number of Executions: 15
+  ------------------------------------
+  Average Solution: 11282086.179216
+  Best Solution Value: 11288901.171914
+  Average Time per Execution: 600.000000 sec
+  Best Solution Time: 600.000000 sec
+  BKS: 11288901.000000
+  Distance to BKS: -0.171914
+  Percentage Distance to BKS: -0.00%
+  Average Percentage Distance to BKS: -0.171914%
+  Minerações por Execução: 8.47
+
+  Details per Execution:
+    Exec 1: Solution=11285142.801806, Time=600.000000 sec, Minerações=7, Dist BKS=0.03%
+    Exec 2: Solution=11271834.939585, Time=600.000000 sec, Minerações=8, Dist BKS=0.15%
+    Exec 3: Solution=11286203.300415, Time=600.000000 sec, Minerações=12, Dist BKS=0.02%
+    Exec 4: Solution=11270272.453160, Time=600.000000 sec, Minerações=8, Dist BKS=0.17%
+    Exec 5: Solution=11286203.300415, Time=600.000000 sec, Minerações=8, Dist BKS=0.02%
+    Exec 6: Solution=11275379.764444, Time=600.000000 sec, Minerações=5, Dist BKS=0.12%
+    Exec 7: Solution=11288901.171914, Time=600.000000 sec, Minerações=8, Dist BKS=-0.00%
+    Exec 8: Solution=11280672.899709, Time=600.000000 sec, Minerações=7, Dist BKS=0.07%
+    Exec 9: Solution=11288901.171914, Time=600.000000 sec, Minerações=8, Dist BKS=-0.00%
+    Exec 10: Solution=11274910.481966, Time=600.000000 sec, Minerações=9, Dist BKS=0.12%
+    Exec 11: Solution=11288901.171914, Time=600.000000 sec, Minerações=7, Dist BKS=-0.00%
+    Exec 12: Solution=11286203.300415, Time=600.000000 sec, Minerações=11, Dist BKS=0.02%
+    Exec 13: Solution=11286359.995316, Time=600.000000 sec, Minerações=11, Dist BKS=0.02%
+    Exec 14: Solution=11274923.894573, Time=600.000000 sec, Minerações=10, Dist BKS=0.12%
+    Exec 15: Solution=11286482.040696, Time=600.000000 sec, Minerações=8, Dist BKS=0.02%

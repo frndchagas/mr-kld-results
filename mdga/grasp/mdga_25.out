@@ -1,0 +1,173 @@
+START SOLUTION
+	Parameters used:
+	instance = instances/MDG-a/MDG-a_25_n2000_m200.txt
+	solution_Size = 200
+	meta_Heuristic = grasp
+
+EXEC_PROGRESS 1/30
+
+Quantidade de iterações: 34
+Quantidade de minerações: 0
+EXEC_PROGRESS 2/30
+
+Quantidade de iterações: 37
+Quantidade de minerações: 0
+EXEC_PROGRESS 3/30
+
+Quantidade de iterações: 39
+Quantidade de minerações: 0
+EXEC_PROGRESS 4/30
+
+Quantidade de iterações: 37
+Quantidade de minerações: 0
+EXEC_PROGRESS 5/30
+
+Quantidade de iterações: 40
+Quantidade de minerações: 0
+EXEC_PROGRESS 6/30
+
+Quantidade de iterações: 38
+Quantidade de minerações: 0
+EXEC_PROGRESS 7/30
+
+Quantidade de iterações: 40
+Quantidade de minerações: 0
+EXEC_PROGRESS 8/30
+
+Quantidade de iterações: 41
+Quantidade de minerações: 0
+EXEC_PROGRESS 9/30
+
+Quantidade de iterações: 42
+Quantidade de minerações: 0
+EXEC_PROGRESS 10/30
+
+Quantidade de iterações: 39
+Quantidade de minerações: 0
+EXEC_PROGRESS 11/30
+
+Quantidade de iterações: 39
+Quantidade de minerações: 0
+EXEC_PROGRESS 12/30
+
+Quantidade de iterações: 40
+Quantidade de minerações: 0
+EXEC_PROGRESS 13/30
+
+Quantidade de iterações: 33
+Quantidade de minerações: 0
+EXEC_PROGRESS 14/30
+
+Quantidade de iterações: 33
+Quantidade de minerações: 0
+EXEC_PROGRESS 15/30
+
+Quantidade de iterações: 34
+Quantidade de minerações: 0
+EXEC_PROGRESS 16/30
+
+Quantidade de iterações: 40
+Quantidade de minerações: 0
+EXEC_PROGRESS 17/30
+
+Quantidade de iterações: 43
+Quantidade de minerações: 0
+EXEC_PROGRESS 18/30
+
+Quantidade de iterações: 40
+Quantidade de minerações: 0
+EXEC_PROGRESS 19/30
+
+Quantidade de iterações: 39
+Quantidade de minerações: 0
+EXEC_PROGRESS 20/30
+
+Quantidade de iterações: 37
+Quantidade de minerações: 0
+EXEC_PROGRESS 21/30
+
+Quantidade de iterações: 33
+Quantidade de minerações: 0
+EXEC_PROGRESS 22/30
+
+Quantidade de iterações: 38
+Quantidade de minerações: 0
+EXEC_PROGRESS 23/30
+
+Quantidade de iterações: 41
+Quantidade de minerações: 0
+EXEC_PROGRESS 24/30
+
+Quantidade de iterações: 38
+Quantidade de minerações: 0
+EXEC_PROGRESS 25/30
+
+Quantidade de iterações: 38
+Quantidade de minerações: 0
+EXEC_PROGRESS 26/30
+
+Quantidade de iterações: 38
+Quantidade de minerações: 0
+EXEC_PROGRESS 27/30
+
+Quantidade de iterações: 39
+Quantidade de minerações: 0
+EXEC_PROGRESS 28/30
+
+Quantidade de iterações: 38
+Quantidade de minerações: 0
+EXEC_PROGRESS 29/30
+
+Quantidade de iterações: 39
+Quantidade de minerações: 0
+EXEC_PROGRESS 30/30
+
+Quantidade de iterações: 37
+Quantidade de minerações: 0
+
+Execution Summary:
+  Instance: instances/MDG-a/MDG-a_25_n2000_m200.txt
+  Matrix Size (N): 2000
+  Solution Size (M): 200
+  Number of Executions: 30
+  ------------------------------------
+  Average Solution: 113364.066667
+  Best Solution Benefit: 113577.000000
+  Average Time per Execution: 20.000000 sec
+  Best Solution Time: 20.000000 sec
+  BKS: 114196.000000
+  Distance to BKS: 619.000000
+  Percentage Distance to BKS: 0.54%
+  Average Percentage Distance to BKS: 0.73%
+
+  Details per Execution:
+    Exec 1: Solution=113416.000000, Time=20.000000 sec, Dist BKS=0.68%
+    Exec 2: Solution=113430.000000, Time=20.000000 sec, Dist BKS=0.67%
+    Exec 3: Solution=113325.000000, Time=20.000000 sec, Dist BKS=0.76%
+    Exec 4: Solution=113367.000000, Time=20.000000 sec, Dist BKS=0.73%
+    Exec 5: Solution=113438.000000, Time=20.000000 sec, Dist BKS=0.66%
+    Exec 6: Solution=113334.000000, Time=20.000000 sec, Dist BKS=0.75%
+    Exec 7: Solution=113358.000000, Time=20.000000 sec, Dist BKS=0.73%
+    Exec 8: Solution=113249.000000, Time=20.000000 sec, Dist BKS=0.83%
+    Exec 9: Solution=113244.000000, Time=20.000000 sec, Dist BKS=0.83%
+    Exec 10: Solution=113577.000000, Time=20.000000 sec, Dist BKS=0.54%
+    Exec 11: Solution=113419.000000, Time=20.000000 sec, Dist BKS=0.68%
+    Exec 12: Solution=113309.000000, Time=20.000000 sec, Dist BKS=0.78%
+    Exec 13: Solution=113344.000000, Time=20.000000 sec, Dist BKS=0.75%
+    Exec 14: Solution=113318.000000, Time=20.000000 sec, Dist BKS=0.77%
+    Exec 15: Solution=113359.000000, Time=20.000000 sec, Dist BKS=0.73%
+    Exec 16: Solution=113547.000000, Time=20.000000 sec, Dist BKS=0.57%
+    Exec 17: Solution=113205.000000, Time=20.000000 sec, Dist BKS=0.87%
+    Exec 18: Solution=113388.000000, Time=20.000000 sec, Dist BKS=0.71%
+    Exec 19: Solution=113300.000000, Time=20.000000 sec, Dist BKS=0.78%
+    Exec 20: Solution=113359.000000, Time=20.000000 sec, Dist BKS=0.73%
+    Exec 21: Solution=113307.000000, Time=20.000000 sec, Dist BKS=0.78%
+    Exec 22: Solution=113362.000000, Time=20.000000 sec, Dist BKS=0.73%
+    Exec 23: Solution=113321.000000, Time=20.000000 sec, Dist BKS=0.77%
+    Exec 24: Solution=113510.000000, Time=20.000000 sec, Dist BKS=0.60%
+    Exec 25: Solution=113315.000000, Time=20.000000 sec, Dist BKS=0.77%
+    Exec 26: Solution=113359.000000, Time=20.000000 sec, Dist BKS=0.73%
+    Exec 27: Solution=113411.000000, Time=20.000000 sec, Dist BKS=0.69%
+    Exec 28: Solution=113341.000000, Time=20.000000 sec, Dist BKS=0.75%
+    Exec 29: Solution=113282.000000, Time=20.000000 sec, Dist BKS=0.80%
+    Exec 30: Solution=113428.000000, Time=20.000000 sec, Dist BKS=0.67%

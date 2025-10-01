@@ -1,0 +1,83 @@
+SOLUTION START
+	Parameters used:
+	instance = instances/MDG-b/MDG-b_25_n2000_m200.txt
+	solution_size = 200
+	meta_heuristic = grasp
+
+
+Quantidade de iterações: 1313
+Quantidade de minerações: 0
+
+Quantidade de iterações: 1654
+Quantidade de minerações: 0
+
+Quantidade de iterações: 1696
+Quantidade de minerações: 0
+
+Quantidade de iterações: 1558
+Quantidade de minerações: 0
+
+Quantidade de iterações: 1301
+Quantidade de minerações: 0
+
+Quantidade de iterações: 1483
+Quantidade de minerações: 0
+
+Quantidade de iterações: 1478
+Quantidade de minerações: 0
+
+Quantidade de iterações: 1496
+Quantidade de minerações: 0
+
+Quantidade de iterações: 1493
+Quantidade de minerações: 0
+
+Quantidade de iterações: 1495
+Quantidade de minerações: 0
+
+Quantidade de iterações: 1493
+Quantidade de minerações: 0
+
+Quantidade de iterações: 1268
+Quantidade de minerações: 0
+
+Quantidade de iterações: 1291
+Quantidade de minerações: 0
+
+Quantidade de iterações: 1295
+Quantidade de minerações: 0
+
+Quantidade de iterações: 1451
+Quantidade de minerações: 0
+
+Execution Summary:
+  Instance: instances/MDG-b/MDG-b_25_n2000_m200.txt
+  Matrix Size (N): 2000
+  Solution Size (M): 200
+  Number of Executions: 15
+  ------------------------------------
+  Average Solution: 11250004.882666
+  Best Solution Value: 11262829.368766
+  Average Time per Execution: 600.000000 sec
+  Best Solution Time: 600.000000 sec
+  BKS: 11298027.000000
+  Distance to BKS: 35197.631234
+  Percentage Distance to BKS: 0.31%
+  Average Percentage Distance to BKS: 0.43%
+
+  Details per Execution:
+    Exec 1: Solution=11244404.550347, Time=600.000000 sec, Dist BKS=0.46%
+    Exec 2: Solution=11250035.763831, Time=600.000000 sec, Dist BKS=0.41%
+    Exec 3: Solution=11246197.214459, Time=600.000000 sec, Dist BKS=0.44%
+    Exec 4: Solution=11256941.845824, Time=600.000000 sec, Dist BKS=0.35%
+    Exec 5: Solution=11243194.129797, Time=600.000000 sec, Dist BKS=0.47%
+    Exec 6: Solution=11256558.647237, Time=600.000000 sec, Dist BKS=0.35%
+    Exec 7: Solution=11240495.825009, Time=600.000000 sec, Dist BKS=0.49%
+    Exec 8: Solution=11248277.165349, Time=600.000000 sec, Dist BKS=0.42%
+    Exec 9: Solution=11245458.288023, Time=600.000000 sec, Dist BKS=0.45%
+    Exec 10: Solution=11259328.383560, Time=600.000000 sec, Dist BKS=0.33%
+    Exec 11: Solution=11250653.346344, Time=600.000000 sec, Dist BKS=0.40%
+    Exec 12: Solution=11262829.368766, Time=600.000000 sec, Dist BKS=0.29%
+    Exec 13: Solution=11250316.157053, Time=600.000000 sec, Dist BKS=0.41%
+    Exec 14: Solution=11250785.604910, Time=600.000000 sec, Dist BKS=0.40%
+    Exec 15: Solution=11244596.949485, Time=600.000000 sec, Dist BKS=0.46%

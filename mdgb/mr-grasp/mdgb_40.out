@@ -1,0 +1,39 @@
+SOLUTION START
+	Parameters used:
+	instance = instances/MDG-b/MDG-b_40_n2000_m200.txt
+	solution_size = 200
+	meta_heuristic = mr-grasp
+
+
+Execution Summary:
+  Instance: instances/MDG-b/MDG-b_40_n2000_m200.txt
+  Matrix Size (N): 2000
+  Solution Size (M): 200
+  Number of Executions: 15
+  ------------------------------------
+  Average Solution: 11298272.684265
+  Best Solution Value: 11304070.746000
+  Average Time per Execution: 600.000000 sec
+  Best Solution Time: 600.000000 sec
+  BKS: 11309163.000000
+  Distance to BKS: 5092.254000
+  Percentage Distance to BKS: 0.05%
+  Average Percentage Distance to BKS: 0.10%
+  Minerações por Execução: 8.87
+
+  Details per Execution:
+    Exec 1: Solution=11298703.006592, Time=600.000000 sec, Minerações=6, Dist BKS=0.09%
+    Exec 2: Solution=11304070.746000, Time=600.000000 sec, Minerações=9, Dist BKS=0.05%
+    Exec 3: Solution=11299092.974741, Time=600.000000 sec, Minerações=8, Dist BKS=0.09%
+    Exec 4: Solution=11299005.437399, Time=600.000000 sec, Minerações=8, Dist BKS=0.09%
+    Exec 5: Solution=11304070.746000, Time=600.000000 sec, Minerações=7, Dist BKS=0.05%
+    Exec 6: Solution=11300424.826203, Time=600.000000 sec, Minerações=12, Dist BKS=0.08%
+    Exec 7: Solution=11302256.122680, Time=600.000000 sec, Minerações=9, Dist BKS=0.06%
+    Exec 8: Solution=11302116.545593, Time=600.000000 sec, Minerações=12, Dist BKS=0.06%
+    Exec 9: Solution=11288830.621824, Time=600.000000 sec, Minerações=10, Dist BKS=0.18%
+    Exec 10: Solution=11304070.746000, Time=600.000000 sec, Minerações=7, Dist BKS=0.05%
+    Exec 11: Solution=11289930.642756, Time=600.000000 sec, Minerações=8, Dist BKS=0.17%
+    Exec 12: Solution=11286473.500504, Time=600.000000 sec, Minerações=9, Dist BKS=0.20%
+    Exec 13: Solution=11300124.809463, Time=600.000000 sec, Minerações=6, Dist BKS=0.08%
+    Exec 14: Solution=11299349.974718, Time=600.000000 sec, Minerações=12, Dist BKS=0.09%
+    Exec 15: Solution=11295569.563506, Time=600.000000 sec, Minerações=10, Dist BKS=0.12%

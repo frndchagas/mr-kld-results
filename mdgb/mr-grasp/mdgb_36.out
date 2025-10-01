@@ -1,0 +1,39 @@
+SOLUTION START
+	Parameters used:
+	instance = instances/MDG-b/MDG-b_36_n2000_m200.txt
+	solution_size = 200
+	meta_heuristic = mr-grasp
+
+
+Execution Summary:
+  Instance: instances/MDG-b/MDG-b_36_n2000_m200.txt
+  Matrix Size (N): 2000
+  Solution Size (M): 200
+  Number of Executions: 15
+  ------------------------------------
+  Average Solution: 11295037.099467
+  Best Solution Value: 11298250.547864
+  Average Time per Execution: 600.000000 sec
+  Best Solution Time: 600.000000 sec
+  BKS: 11302892.000000
+  Distance to BKS: -8781.547864
+  Percentage Distance to BKS: -0.08%
+  Average Percentage Distance to BKS: -0.05%
+  Minerações por Execução: 8.80
+
+  Details per Execution:
+    Exec 1: Solution=11283985.107275, Time=600.000000 sec, Minerações=11, Dist BKS=0.17%
+    Exec 2: Solution=11295035.783891, Time=600.000000 sec, Minerações=7, Dist BKS=-0.05%
+    Exec 3: Solution=11296454.287315, Time=600.000000 sec, Minerações=7, Dist BKS=-0.06%
+    Exec 4: Solution=11291330.487546, Time=600.000000 sec, Minerações=13, Dist BKS=-0.02%
+    Exec 5: Solution=11297316.739028, Time=600.000000 sec, Minerações=9, Dist BKS=-0.07%
+    Exec 6: Solution=11296297.547163, Time=600.000000 sec, Minerações=7, Dist BKS=-0.06%
+    Exec 7: Solution=11296454.287315, Time=600.000000 sec, Minerações=6, Dist BKS=-0.06%
+    Exec 8: Solution=11296634.646254, Time=600.000000 sec, Minerações=8, Dist BKS=-0.06%
+    Exec 9: Solution=11293988.901856, Time=600.000000 sec, Minerações=8, Dist BKS=-0.04%
+    Exec 10: Solution=11298250.547864, Time=600.000000 sec, Minerações=9, Dist BKS=-0.08%
+    Exec 11: Solution=11295502.176722, Time=600.000000 sec, Minerações=7, Dist BKS=-0.05%
+    Exec 12: Solution=11295032.454280, Time=600.000000 sec, Minerações=9, Dist BKS=-0.05%
+    Exec 13: Solution=11296311.250120, Time=600.000000 sec, Minerações=10, Dist BKS=-0.06%
+    Exec 14: Solution=11294711.727513, Time=600.000000 sec, Minerações=11, Dist BKS=-0.05%
+    Exec 15: Solution=11298250.547864, Time=600.000000 sec, Minerações=10, Dist BKS=-0.08%

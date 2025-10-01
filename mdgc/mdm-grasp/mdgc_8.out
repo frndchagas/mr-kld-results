@@ -1,0 +1,130 @@
+START SOLUTION
+	Parameters used:
+	instance = instances/MDG-c/MDG-c_8_n3000_m400.txt
+	solution_Size = 400
+	meta_Heuristic = mdm-grasp
+
+EXEC_PROGRESS 1/15
+ITER 93 DATA_MINING TOOK 6.558808
+ITER 189 DATA_MINING TOOK 297.495654
+
+Total iterations: 190
+Mining operations: 2
+EXEC_PROGRESS 2/15
+ITER 60 DATA_MINING TOOK 3.014624
+ITER 175 DATA_MINING TOOK 132.972281
+
+Total iterations: 207
+Mining operations: 2
+EXEC_PROGRESS 3/15
+ITER 59 DATA_MINING TOOK 4.300927
+ITER 178 DATA_MINING TOOK 185.903758
+
+Total iterations: 179
+Mining operations: 2
+EXEC_PROGRESS 4/15
+ITER 59 DATA_MINING TOOK 6.763269
+ITER 148 DATA_MINING TOOK 158.927167
+
+Total iterations: 199
+Mining operations: 2
+EXEC_PROGRESS 5/15
+ITER 45 DATA_MINING TOOK 10.895559
+ITER 123 DATA_MINING TOOK 428.220173
+
+Total iterations: 124
+Mining operations: 2
+EXEC_PROGRESS 6/15
+ITER 105 DATA_MINING TOOK 8.372010
+ITER 156 DATA_MINING TOOK 599.160781
+
+Total iterations: 157
+Mining operations: 2
+EXEC_PROGRESS 7/15
+ITER 60 DATA_MINING TOOK 10.286835
+ITER 162 DATA_MINING TOOK 694.020894
+
+Total iterations: 163
+Mining operations: 2
+EXEC_PROGRESS 8/15
+ITER 74 DATA_MINING TOOK 4.832384
+ITER 143 DATA_MINING TOOK 319.720002
+
+Total iterations: 144
+Mining operations: 2
+EXEC_PROGRESS 9/15
+ITER 75 DATA_MINING TOOK 5.730488
+ITER 172 DATA_MINING TOOK 106.637728
+ITER 215 DATA_MINING TOOK 137.967063
+
+Total iterations: 216
+Mining operations: 3
+EXEC_PROGRESS 10/15
+ITER 89 DATA_MINING TOOK 12.070948
+ITER 171 DATA_MINING TOOK 170.442306
+
+Total iterations: 188
+Mining operations: 2
+EXEC_PROGRESS 11/15
+ITER 65 DATA_MINING TOOK 5.857154
+ITER 157 DATA_MINING TOOK 129.303693
+
+Total iterations: 215
+Mining operations: 2
+EXEC_PROGRESS 12/15
+ITER 46 DATA_MINING TOOK 7.409333
+ITER 221 DATA_MINING TOOK 468.857650
+
+Total iterations: 222
+Mining operations: 2
+EXEC_PROGRESS 13/15
+ITER 50 DATA_MINING TOOK 10.516521
+ITER 113 DATA_MINING TOOK 186.345084
+
+Total iterations: 213
+Mining operations: 2
+EXEC_PROGRESS 14/15
+ITER 54 DATA_MINING TOOK 4.801556
+ITER 124 DATA_MINING TOOK 166.653675
+ITER 196 DATA_MINING TOOK 685.471667
+
+Total iterations: 197
+Mining operations: 3
+EXEC_PROGRESS 15/15
+ITER 37 DATA_MINING TOOK 5.558114
+ITER 152 DATA_MINING TOOK 90.218295
+
+Total iterations: 262
+Mining operations: 2
+
+Execution Summary:
+  Instance: instances/MDG-c/MDG-c_8_n3000_m400.txt
+  Matrix Size (N): 3000
+  Solution Size (M): 400
+  Number of Executions: 15
+  ------------------------------------
+  Average Solution: 43378599.000000
+  Best Solution Benefit: 43391680.000000
+  Average Time per Execution: 600.000000 sec
+  Best Solution Time: 600.000000 sec
+  BKS: 43465572.000000
+  Distance to BKS: 73892.000000
+  Percentage Distance to BKS: 0.17%
+  Average Percentage Distance to BKS: 0.20%
+
+  Details per Execution:
+    Exec 1: Solution=43379243.000000, Time=600.000000 sec, Dist BKS=0.20%
+    Exec 2: Solution=43390065.000000, Time=600.000000 sec, Dist BKS=0.17%
+    Exec 3: Solution=43380693.000000, Time=600.000000 sec, Dist BKS=0.20%
+    Exec 4: Solution=43390703.000000, Time=600.000000 sec, Dist BKS=0.17%
+    Exec 5: Solution=43371270.000000, Time=600.000000 sec, Dist BKS=0.22%
+    Exec 6: Solution=43360678.000000, Time=600.000000 sec, Dist BKS=0.24%
+    Exec 7: Solution=43382334.000000, Time=600.000000 sec, Dist BKS=0.19%
+    Exec 8: Solution=43373407.000000, Time=600.000000 sec, Dist BKS=0.21%
+    Exec 9: Solution=43376996.000000, Time=600.000000 sec, Dist BKS=0.20%
+    Exec 10: Solution=43383210.000000, Time=600.000000 sec, Dist BKS=0.19%
+    Exec 11: Solution=43372265.000000, Time=600.000000 sec, Dist BKS=0.21%
+    Exec 12: Solution=43366700.000000, Time=600.000000 sec, Dist BKS=0.23%
+    Exec 13: Solution=43391680.000000, Time=600.000000 sec, Dist BKS=0.17%
+    Exec 14: Solution=43374764.000000, Time=600.000000 sec, Dist BKS=0.21%
+    Exec 15: Solution=43384977.000000, Time=600.000000 sec, Dist BKS=0.19%

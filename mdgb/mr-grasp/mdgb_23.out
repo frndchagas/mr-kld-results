@@ -1,0 +1,39 @@
+SOLUTION START
+	Parameters used:
+	instance = instances/MDG-b/MDG-b_23_n2000_m200.txt
+	solution_size = 200
+	meta_heuristic = mr-grasp
+
+
+Execution Summary:
+  Instance: instances/MDG-b/MDG-b_23_n2000_m200.txt
+  Matrix Size (N): 2000
+  Solution Size (M): 200
+  Number of Executions: 15
+  ------------------------------------
+  Average Solution: 11296077.094165
+  Best Solution Value: 11299940.462684
+  Average Time per Execution: 600.000000 sec
+  Best Solution Time: 600.000000 sec
+  BKS: 11299941.000000
+  Distance to BKS: 0.537316
+  Percentage Distance to BKS: 0.00%
+  Average Percentage Distance to BKS: 0.03%
+  Minerações por Execução: 7.67
+
+  Details per Execution:
+    Exec 1: Solution=11299940.462684, Time=600.000000 sec, Minerações=8, Dist BKS=0.00%
+    Exec 2: Solution=11295045.327239, Time=600.000000 sec, Minerações=9, Dist BKS=0.04%
+    Exec 3: Solution=11294555.060742, Time=600.000000 sec, Minerações=8, Dist BKS=0.05%
+    Exec 4: Solution=11299940.462684, Time=600.000000 sec, Minerações=9, Dist BKS=0.00%
+    Exec 5: Solution=11294555.060742, Time=600.000000 sec, Minerações=8, Dist BKS=0.05%
+    Exec 6: Solution=11299940.462684, Time=600.000000 sec, Minerações=6, Dist BKS=0.00%
+    Exec 7: Solution=11299940.462684, Time=600.000000 sec, Minerações=7, Dist BKS=0.00%
+    Exec 8: Solution=11299940.462684, Time=600.000000 sec, Minerações=6, Dist BKS=0.00%
+    Exec 9: Solution=11296114.678185, Time=600.000000 sec, Minerações=7, Dist BKS=0.03%
+    Exec 10: Solution=11290642.000536, Time=600.000000 sec, Minerações=7, Dist BKS=0.08%
+    Exec 11: Solution=11293879.450716, Time=600.000000 sec, Minerações=8, Dist BKS=0.05%
+    Exec 12: Solution=11299574.802831, Time=600.000000 sec, Minerações=13, Dist BKS=0.00%
+    Exec 13: Solution=11295369.439641, Time=600.000000 sec, Minerações=6, Dist BKS=0.04%
+    Exec 14: Solution=11290867.637975, Time=600.000000 sec, Minerações=5, Dist BKS=0.08%
+    Exec 15: Solution=11290850.640441, Time=600.000000 sec, Minerações=8, Dist BKS=0.08%

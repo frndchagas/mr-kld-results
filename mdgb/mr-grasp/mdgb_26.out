@@ -1,0 +1,39 @@
+SOLUTION START
+	Parameters used:
+	instance = instances/MDG-b/MDG-b_26_n2000_m200.txt
+	solution_size = 200
+	meta_heuristic = mr-grasp
+
+
+Execution Summary:
+  Instance: instances/MDG-b/MDG-b_26_n2000_m200.txt
+  Matrix Size (N): 2000
+  Solution Size (M): 200
+  Number of Executions: 15
+  ------------------------------------
+  Average Solution: 11289472.635024
+  Best Solution Value: 11291934.037972
+  Average Time per Execution: 600.000000 sec
+  Best Solution Time: 600.000000 sec
+  BKS: 11298430.000000
+  Distance to BKS: 6495.962028
+  Percentage Distance to BKS: 0.06%
+  Average Percentage Distance to BKS: 0.08%
+  Minerações por Execução: 8.07
+
+  Details per Execution:
+    Exec 1: Solution=11288834.602322, Time=600.000000 sec, Minerações=6, Dist BKS=0.08%
+    Exec 2: Solution=11288893.204841, Time=600.000000 sec, Minerações=9, Dist BKS=0.08%
+    Exec 3: Solution=11291934.037972, Time=600.000000 sec, Minerações=8, Dist BKS=0.06%
+    Exec 4: Solution=11289316.760782, Time=600.000000 sec, Minerações=9, Dist BKS=0.08%
+    Exec 5: Solution=11289212.577204, Time=600.000000 sec, Minerações=8, Dist BKS=0.08%
+    Exec 6: Solution=11290548.401550, Time=600.000000 sec, Minerações=6, Dist BKS=0.07%
+    Exec 7: Solution=11287816.765043, Time=600.000000 sec, Minerações=7, Dist BKS=0.09%
+    Exec 8: Solution=11288394.570977, Time=600.000000 sec, Minerações=9, Dist BKS=0.09%
+    Exec 9: Solution=11290548.401550, Time=600.000000 sec, Minerações=10, Dist BKS=0.07%
+    Exec 10: Solution=11290775.863839, Time=600.000000 sec, Minerações=7, Dist BKS=0.07%
+    Exec 11: Solution=11291934.037972, Time=600.000000 sec, Minerações=10, Dist BKS=0.06%
+    Exec 12: Solution=11288705.483548, Time=600.000000 sec, Minerações=7, Dist BKS=0.09%
+    Exec 13: Solution=11291101.892297, Time=600.000000 sec, Minerações=10, Dist BKS=0.06%
+    Exec 14: Solution=11287816.765043, Time=600.000000 sec, Minerações=8, Dist BKS=0.09%
+    Exec 15: Solution=11286256.160423, Time=600.000000 sec, Minerações=7, Dist BKS=0.11%

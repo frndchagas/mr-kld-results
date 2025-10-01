@@ -1,0 +1,39 @@
+SOLUTION START
+	Parameters used:
+	instance = instances/MDG-b/MDG-b_39_n2000_m200.txt
+	solution_size = 200
+	meta_heuristic = mr-grasp
+
+
+Execution Summary:
+  Instance: instances/MDG-b/MDG-b_39_n2000_m200.txt
+  Matrix Size (N): 2000
+  Solution Size (M): 200
+  Number of Executions: 15
+  ------------------------------------
+  Average Solution: 11285235.013229
+  Best Solution Value: 11292713.478575
+  Average Time per Execution: 600.000000 sec
+  Best Solution Time: 600.000000 sec
+  BKS: 11295054.000000
+  Distance to BKS: 2340.521425
+  Percentage Distance to BKS: 0.02%
+  Average Percentage Distance to BKS: 0.09%
+  Minerações por Execução: 8.93
+
+  Details per Execution:
+    Exec 1: Solution=11285391.889565, Time=600.000000 sec, Minerações=9, Dist BKS=0.09%
+    Exec 2: Solution=11280286.606470, Time=600.000000 sec, Minerações=11, Dist BKS=0.13%
+    Exec 3: Solution=11283266.019911, Time=600.000000 sec, Minerações=8, Dist BKS=0.10%
+    Exec 4: Solution=11292713.478575, Time=600.000000 sec, Minerações=7, Dist BKS=0.02%
+    Exec 5: Solution=11282420.022117, Time=600.000000 sec, Minerações=8, Dist BKS=0.11%
+    Exec 6: Solution=11282622.054751, Time=600.000000 sec, Minerações=6, Dist BKS=0.11%
+    Exec 7: Solution=11279581.807426, Time=600.000000 sec, Minerações=8, Dist BKS=0.14%
+    Exec 8: Solution=11290885.102107, Time=600.000000 sec, Minerações=8, Dist BKS=0.04%
+    Exec 9: Solution=11279278.743490, Time=600.000000 sec, Minerações=9, Dist BKS=0.14%
+    Exec 10: Solution=11290502.700509, Time=600.000000 sec, Minerações=5, Dist BKS=0.04%
+    Exec 11: Solution=11284737.291997, Time=600.000000 sec, Minerações=14, Dist BKS=0.09%
+    Exec 12: Solution=11288171.963603, Time=600.000000 sec, Minerações=9, Dist BKS=0.06%
+    Exec 13: Solution=11285138.634299, Time=600.000000 sec, Minerações=9, Dist BKS=0.09%
+    Exec 14: Solution=11282643.781500, Time=600.000000 sec, Minerações=11, Dist BKS=0.11%
+    Exec 15: Solution=11290885.102107, Time=600.000000 sec, Minerações=12, Dist BKS=0.04%
