@@ -1,0 +1,27 @@
+START SOLUTION
+	Parameters used:
+	instance = instances/MDG-a/MDG-a_38_n2000_m200.txt
+	solution_Size = 200
+	meta_Heuristic = mr-grasp
+
+Execution Summary:
+  Instance: instances/MDG-a/MDG-a_38_n2000_m200.txt
+  Matrix Size (N): 2000
+  Solution Size (M): 200
+  Number of Executions: 10
+  ------------------------------------
+  Average Solution: 114310.80
+  Best Solution Benefit: 114390.00
+  BKS: 114408.00
+
+  Details per Execution:
+    Exec 1: Solution=114253
+    Exec 2: Solution=114260
+    Exec 3: Solution=114279
+    Exec 4: Solution=114285
+    Exec 5: Solution=114300
+    Exec 6: Solution=114312
+    Exec 7: Solution=114334
+    Exec 8: Solution=114390
+    Exec 9: Solution=114352
+    Exec 10: Solution=114343
